@@ -1,3 +1,7 @@
 pymongo[srv]==4.2.0
 
-#-e .
+from_root
+PyYAML
+dill
+imblearn==0.0
+-e .
