@@ -4,4 +4,5 @@ from_root
 PyYAML
 dill
 imblearn==0.0
+certifi
 -e .
