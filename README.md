@@ -25,11 +25,19 @@ Tech Stack Used :--
 Steps to run project
 
 1.open command prompt, reach to location where you want to keep project
+
 2. write this command :- git clone https://github.com/poonamgaba86/sensor-fault-detection.git
+
 3.open the project in Visual studio
+
 4.open terminal then choose command prompt
+
 5. create environment:-  conda create -p ./sens_env_name
+
 6.conda activate ./sens_env_name
+
 7.pip install -r requirements.txt
+
 8. python main.py
+
 9. localhost:8080
